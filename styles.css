@@ -8,7 +8,8 @@
 }
 
 body {
-    height: 100vh;
+    font-family: 'Outfit', sans-serif;
+    min-height: 100vh;
     background-image: url("https://texturelabs.org/wp-content/uploads/Texturelabs_LensFX_247S.jpg");
     background-position: center;
     background-size: cover;
